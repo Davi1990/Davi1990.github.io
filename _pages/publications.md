@@ -1,112 +1,39 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 First author:
 
-<b>[Phase-dependent local brain states determine the impact of image-guided TMS on motor network EEG synchronization](https://davi1990.github.io/publications/J_Physiol)</b> <br>
-<b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Di Domenico A, Fasolo M, Shafi M, Pascual-Leone A, Santarnecchi E.
-<i><b>The Journal of Physiology 2021</b>.
 
-<b>[Perturbation of resting-state network nodes preferentially propagates to structurally rather than functionally connected regions](https://davi1990.github.io/publications/SciRep)</b> <br>
-<b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Di Domenico A, Fasolo M, Shafi M, Pascual-Leone A, Santarnecchi E.
-<i><b>Scientific Reports 2021</b>.
+## **Publications**
 
-<b>[Network-level Macroscale Structural Connectivity Predicts Propagation of Transcranial Magnetic Stimulation](https://davi1990.github.io/publications/NeuroImage)</b> <br>
-<b>Momi D</b>, Ozdemir R, Tadayon E, Boucher P, Shafi M, Pascual-Leone A, Santarnecchi E.
-<i><b>NeuroImage 2020</b>.
+- **Momi, D.**, Wang, Z., Parmigiani, S., Mikulan, E., Bastiaens, S. P., Oveisi, M. P., Kadak, K., Gaglioti, G., Waters, A. C., Hill, S., Pigorini, A., Keller, C. J., & Griffiths, J. D. (2024). [Stimulation mapping and whole-brain modeling reveal gradients of excitability and recurrence in cortical networks](https://www.biorxiv.org/content/10.1101/2024.02.26.581277v1) (p. 2024.02.26.581277). bioRxiv. [DOI](https://doi.org/10.1101/2024.02.26.581277)
 
-<b>[Cognitive Enhancement via Network-Targeted Cortico-cortical Associative Brain Stimulation](https://davi1990.github.io/publications/Cerebral_Cortex)</b> <br>
-<b>Momi D</b>, Neri F, Coiro G, Veniero D, Sprugnoli G, Rossi A, Pascual-Leone A, Rossi S, Santarnecchi E.
-<i><b>Cerebral Cortex 2019</b>.
+- **Momi, D.**, Wang, Z., & Griffiths, J. D. (2023). [TMS-evoked responses are driven by recurrent large-scale network dynamics](https://elifesciences.org/articles/83232). ELife, 12, e83232. [DOI](https://doi.org/10.7554/eLife.83232)
 
-<b>[Long-lasting connectivity changes induced by intensive first-person shooter gaming](https://davi1990.github.io/publications/BIB)</b> <br>
-<b>Momi D</b>, Smeralda C\*, Di Lorenzo G, Neri F, Rossi S, Rossi A, Santarnecchi E.
-<i><b>Journal of Neuroscience Research 2020</b>.
+- **Momi, D.**, Prete, G., Di Crosta, A., La Malva, P., Palumbo, R., Ceccato, I., Bartolini, E., Palumbo, R., Mammarella, N., Fasolo, M., & Di Domenico, A. (2022). [Time reproduction, bisection and doubling: A novel paradigm to investigate the effect of the internal clock on time estimation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10227146/). Psychological Research. [DOI](https://doi.org/10.1007/s00426-022-01745-0)
 
-<b>[Thalamic morphometric changes induced by first‐person action videogame training](https://davi1990.github.io/publications/EJN)</b> <br>
-<b>Momi D</b>, Smeralda C, Sprugnoli G, Neri F, Rossi S, Rossi A, Di Lorenzo G, Santarnecchi E.
-<i><b>European Journal of Neuroscience 2018</b>.
+- **Momi, D.**, Ozdemir, R. A., Tadayon, E., Boucher, P., Di Domenico, A., Fasolo, M., Shafi, M. M., Pascual-Leone, A., & Santarnecchi, E. (2021). [Perturbation of resting-state network nodes preferentially propagates to structurally rather than functionally connected regions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8203778/). Scientific Reports, 11(1), 12458. [DOI](https://doi.org/10.1038/s41598-021-90663-z)
 
-<b>[Acute and long-lasting cortical thickness changes following intensive first-person action videogame practice](https://davi1990.github.io/publications/BBR)</b> <br>
-<b>Momi D</b>, Smeralda C\*, Sprugnoli G, Ferrone S, Rossi S, Rossi A, Di Lorenzo G, Santarnecchi E.
-<i><b>Behavioural Brain Research 2018</b>.
+- **Momi, D.**, Ozdemir, R. A., Tadayon, E., Boucher, P., Di Domenico, A., Fasolo, M., Shafi, M. M., Pascual-Leone, A., & Santarnecchi, E. (2021). [Phase-dependent local brain states determine the impact of image-guided TMS on motor network EEG synchronization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9728936/). The Journal of Physiology, n/a(n/a). [DOI](https://doi.org/10.1113/JP282393)
 
-<b>[Peculiarities of Functional Connectivity—including Cross-Modal Patterns—in Professional Karate Athletes: Correlations with Cognitive and Motor Performances](https://davi1990.github.io/publications/NP)</b> <br>
-<b>Momi D</b>, Berti B\*, Sprugnoli G, Neri F, Bonifazi M, Rossi A, Muscettola M, Benocci R, Santarnecchi E, Rossi S.
-<i><b>Neural Plasticity 2019</b>.
+- **Momi, D.**, Ozdemir, R. A., Tadayon, E., Boucher, P., Shafi, M. M., Pascual-Leone, A., & Santarnecchi, E. (2021). [Network-level macroscale structural connectivity predicts propagation of transcranial magnetic stimulation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9094638/). NeuroImage, 229, 117698. [DOI](https://doi.org/10.1016/j.neuroimage.2020.117698)
+
+- **Momi, D.**, Smeralda, C. L., Di Lorenzo, G., Neri, F., Rossi, S., Rossi, A., & Santarnecchi, E. (2021). [Long-lasting connectivity changes induced by intensive first-person shooter gaming](https://pubmed.ncbi.nlm.nih.gov/32767208/). Brain Imaging and Behavior, 15(3), 1518–1532. [DOI](https://doi.org/10.1007/s11682-020-00350-2)
+
+- **Momi, D.**, Neri, F., Coiro, G., Smeralda, C., Veniero, D., Sprugnoli, G., Rossi, A., Pascual-Leone, A., Rossi, S., & Santarnecchi, E. (2020). [Cognitive Enhancement via Network-Targeted Cortico-cortical Associative Brain Stimulation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7132941/). Cerebral Cortex (New York, N.Y.: 1991), 30(3), 1516–1527. [DOI](https://doi.org/10.1093/cercor/bhz182)
+
+- **Momi, D.**, Berti, B., Sprugnoli, G., Neri, F., Bonifazi, M., Rossi, A., Muscettola, M. M., Benocci, R., Santarnecchi, E., & Rossi, S. (2019). [Peculiarities of Functional Connectivity—including Cross-Modal Patterns—in Professional Karate Athletes: Correlations with Cognitive and Motor Performances](https://www.hindawi.com/journals/np/2019/6807978/). Neural Plasticity, 2019, e6807978. [DOI](https://doi.org/10.1155/2019/6807978)
+
+- **Momi, D.**, Smeralda, C., Sprugnoli, G., Neri, F., Rossi, S., Rossi, A., Di Lorenzo, G., & Santarnecchi, E. (2019). [Thalamic morphometric changes induced by first-person action videogame training](https://onlinelibrary.wiley.com/doi/10.1111/ejn.14272). The European Journal of Neuroscience, 49(9), 1180–1195. [DOI](https://doi.org/10.1111/ejn.14272)
+
+- **Momi, D.**, Smeralda, C., Sprugnoli, G., Ferrone, S., Rossi, S., Rossi, A., Di Lorenzo, G., & Santarnecchi, E. (2018). [Acute and long-lasting cortical thickness changes following intensive first-person action videogame practice](https://www.sciencedirect.com/science/article/abs/pii/S016643281731642X?via%3Dihub). Behavioural Brain Research, 353, 62–73. [DOI](https://doi.org/10.1016/j.bbr.2018.06.013)
 
 
 Co-authorships:
 
-<b>[Reproducibility of cortical response modulation induced by intermittent and continuous theta-burst stimulation of the human motor cortex](https://davi1990.github.io/publications/Brain_Stimul_2)</b> <br>
-Ozdemir R, Boucher P, Fried P, <b>Momi D</b>, Jannati A, Pascual-Leone A, Santarnecchi E, Shafi M.
-<i><b>Brain Stimulation 2021</b>.
-
-<b>[Sham-derived effects and the minimal reliability of theta burst stimulation](https://davi1990.github.io/publications/SciRep2)</b> <br>
-Boucher, P., Ozdemir, R.A., <b>Momi D</b> Burke, M.J., Jannati, A., Fried, P.J., Pascual-Leone, A., Shafi, M.M., Santarnecchi, E.
-<i><b>Scientific Reports 2021</b>.
-
-<b>[Overlapping and dissociable brain activations for fluid intelligence and executive functions](https://davi1990.github.io/publications/CABN_2)</b> <br>
-Santarnecchi E, <b>Momi D</b>, Mencarelli L, Plessow F, Saxena S, Rossi S, Rossi A, Pascual-Leone A
-<i><b>Cognitive, Affective, & Behavioral Neuroscience 2021</b>.
-
-<b>[Cortical Responses to Noninvasive Perturbations Enable Individual Brain Fingerprinting](https://davi1990.github.io/publications/Brain_Stimul)</b> <br>
-Ozdemir R, Tadayon E, Boucher P, Sun H, <b>Momi D</b>, Ganglberger WM, Westover B. Pascual-Leone A, Santarnecchi E, Shafi M.
-<i><b>Brain Stimulation 2021</b>.
-
-<b>[Brain Functional Correlates of Episodic Memory Using an Ecological Free Recall Task](https://davi1990.github.io/publications/Brain_Sciences)</b> <br>
-Neri, F., Cappa, S.F., Mencarelli, L., <b>Momi D</b>, Santarnecchi, E., Rossi, S.
-<i><b>Brain Sciences 2021</b>.
-
-<b>[Personalized adaptive training improves performance at a professional first-person shooter action videogame](https://davi1990.github.io/publications/Front_Psychol)</b> <br>
-Neri F, Smeralda C, <b>Momi D</b>, Sprugnoli G, Menardi A, Ferrone S, Rossi S, Rossi A, Di Lorenzo G, Santarnecchi E
-<i><b>Frontiers in Psychology 2021</b>.
-
-<b>[Brainhack: Developing a culture of open, inclusive, community-driven neuroscience](https://davi1990.github.io/publications/Neuron)</b> <br>
-Gau., R., and The Brainhack Community.
-<i><b>Neuron  2021</b>.
-
-<b>[Individualized perturbation of the human connectome reveals reproducible biomarkers of network dynamics relevant to cognition](https://davi1990.github.io/publications/PNAS)</b> <br>
-Ozdemir RA, Tadayon E, Boucher P, <b>Momi D</b>, Karakhanyan KA, Fox MD, Halko MA, Pascual-Leone A, Shafi MM, Santarnecchi E.
-<i><b>PNAS 2020</b>.
-
-<b>[Functional connectivity changes and symptoms improvement after personalized, double-daily dosing, repetitive transcranial magnetic stimulation in obsessive-compulsive disorder: A pilot study](https://davi1990.github.io/publications/JoNR2)</b> <br>
-Mantovani A, Neri F, D'Urso G, Mencarelli L, Tatti E, <b>Momi D</b>, Menardi A, Sprugnoli G, Santarnecchi E, Rossi S.
-<i><b>Journal of Psychiatric Research 2020</b>.
-
-<b>[Impact of network‐targeted multichannel transcranial direct current stimulation on intrinsic and network‐to‐network functional connectivity](https://davi1990.github.io/publications/JoNR)</b> <br>
-Mencarelli L, Menardi A, Neri F, Monti L, Ruffini G, Salvator R, Pascual-Leone A, <b>Momi D</b>, Sprugnoli G, Rossi A, Rossi S, Santarnecchi E.
-<i><b>Journal of Neuroscience Research 2020</b>.
-
-<b>[Age of Insomnia Onset Correlates with a Reversal of Default Mode Network and Supplementary Motor Cortex Connectivity](https://davi1990.github.io/publications/NP2)</b> <br>
-Santarnecchi E, Del Bianco C, Sicilia I, <b>Momi D</b>, Di Lorenzo G, Ferrone S, Sprugnoli G, Rossi S, Rossi A.
-<i><b>Neural Plasticity 2018</b>
-
-<b>[Modulation of network‐to‐network connectivity via spike‐timing‐dependent noninvasive brain stimulation](https://davi1990.github.io/publications/HBM)</b> <br>
-Santarnecchi E, <b>Momi D</b>, Sprugnoli G, Neri F, Pascual-Leone A, Rossi A, Rossi S.
-<i><b>Human Brain Mapping 2018</b>.
-
-<b>[Brain functional connectivity correlates of coping styles](https://davi1990.github.io/publications/CABN)</b> <br>
-Santarnecchi E, Sprugnoli G, Tatti E, Mencarelli L, Neri F, <b>Momi D</b>, Di Lorenzo G, Pascual-Leone A, Rossi S, Rossi A.
-<i><b>Cognitive, Affective, & Behavioral Neuroscience 2018</b>.
-
-<b>[Reduction of intratumoral brain perfusion by noninvasive transcranial electrical stimulation](https://davi1990.github.io/publications/SA)</b><br>
-Sprugnoli G, Monti L, Lippa L, Neri F, Mencarelli L, Ruffini G, Salvador R, Oliveri G, Batani B, <b>Momi D</b>, Cerase A, Pascual-Leone A, Rossi A, Rossi S, Santarnecchi E.
-<i><b>"Science Advances 2019</b>.
-
-<b>[Stimuli, presentation modality, and load‐specific brain activity patterns during n‐back task](https://davi1990.github.io/publications/HBM2)</b> <br>
-Mencarelli L, Neri F, <b>Momi D</b>, Menardi A, Rossi S, Rossi A, Santarnecchi E.
-<i><b>Human Brain Mapping 2019</b>.
-
-<b>[Functional and Brain Activation Changes Following Specialized Upper-Limb Exercise in Parkinson’s Disease](https://davi1990.github.io/publications/FHN)</b><br>
-Messa LV, Ginanneschi F, <b>Momi D</b>, Monti L, Battisti C, Cioncoloni D, Pucci B, Santarnecchi E, Rossi A
-<i><b>Frontiers in Human Neuroscience 2019</b>
-
-
-
-
+For the other >25 publications where I am a co-author, please check [Google Scholar profile](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en).
 
 
 [\* denotes equal contribution]

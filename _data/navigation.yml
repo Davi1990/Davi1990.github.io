@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV/Bio"
-    url: /files/CV_Davide_Momi-merged.pdf
+    url: /files/CV_Davide_Momi.pdf
 
   - title: "Publications"
     url: /publications/
@@ -11,8 +11,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "About-me"
-    url: /about_me/
+  - title: "teaching"
+    url: /teaching/
 
   # - title: "Teaching"
   #   url: /teaching/
